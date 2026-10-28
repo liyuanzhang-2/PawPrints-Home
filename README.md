@@ -49,3 +49,11 @@ https://arcade.makecode.com/S22505-80512-06885-08887
   
   <img width="1341" height="511" alt="截屏2026-10-28 18 30 26" src="https://github.com/user-attachments/assets/c6d96f8a-fa74-4024-beed-c1b8d28f7cc3" />
 
+## Setup
+The game can be played in a web browser without installing additional software.
+
+- Open the game link in the Play the Game section.
+- Wait for the MakeCode Arcade simulator to load.
+- Select the on-screen A button to advance through the opening screens.
+
+
