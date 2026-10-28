@@ -56,4 +56,8 @@ The game can be played in a web browser without installing additional software.
 - Wait for the MakeCode Arcade simulator to load.
 - Select the on-screen A button to advance through the opening screens.
 
+### Viewing the Code
+- Open the game link in the Play the Game section.
+- Click the Edit Code button (the pencil icon) to open the project in MakeCode Arcade.
+- The editor opens in Python. To view the block-based version, select Blocks.
 
