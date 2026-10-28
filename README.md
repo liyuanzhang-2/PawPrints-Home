@@ -1,5 +1,5 @@
 # PawPrints-Home
-
+# Table of contents
 
 
 Link to PawPrints in MakeCode Arcade
