@@ -38,9 +38,14 @@ https://arcade.makecode.com/S22505-80512-06885-08887
 
 ## Screenshots
 - Exploration and Clues: The player explores the maze and looks for paw prints and a collar.
+  
   <img width="1341" height="511" alt="截屏2026-10-28 18 30 14" src="https://github.com/user-attachments/assets/495d491b-d2bd-4805-99ff-2d13498d21df" />
+
 - Neighbor Dialogue: The player speaks to a neighbor to receive a hint.
+  
   <img width="1341" height="511" alt="截屏2026-10-28 18 30 00" src="https://github.com/user-attachments/assets/d39b5e77-29f2-4c31-85c7-4dcc3cf04972" />
+
 - Winning Screen: The game displays a victory message when the player reaches the goal.
+  
   <img width="1341" height="511" alt="截屏2026-10-28 18 30 26" src="https://github.com/user-attachments/assets/c6d96f8a-fa74-4024-beed-c1b8d28f7cc3" />
 
