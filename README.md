@@ -59,6 +59,7 @@ Use the arrow keys to move around the maze and search for the lost cat.
 - Move up to the neighbor to receive a hint.
 - Select the on-screen A button to advance through the dialogue.
 - Reach the goal near the cat to trigger the victory screen.
+
 The following Python code enables directional movement and makes the camera follow the player
 - controller.move_sprite(mySprite)
 - scene.camera_follow_sprite(mySprite)
@@ -72,5 +73,6 @@ Possible improvements for future versions:
 - Refine clue placement through further playtesting.
 - Add more NPC dialogue and additional maze levels.
 
+## Acknowledgements
 
 
