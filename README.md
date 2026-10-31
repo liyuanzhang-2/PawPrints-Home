@@ -12,7 +12,7 @@ https://arcade.makecode.com/S22505-80512-06885-08887
 - Screenshots
 - Setup
 - Usage
-- 
+- Project Status
 
 ## General Information
 - About the game: Pawprint Home was created with Microsoft MakeCode Arcade. The player explores a maze, follows paw prints, looks for a collar, and speaks to a neighbor to find a lost cat. Some paw prints lead to dead ends, encouraging the player to explore different routes.
