@@ -45,11 +45,17 @@ https://arcade.makecode.com/S22505-80512-06885-08887
   <img width="1341" height="511" alt="截屏2026-10-28 18 30 26" src="https://github.com/user-attachments/assets/c6d96f8a-fa74-4024-beed-c1b8d28f7cc3" />
 
 ## Setup
-The game can be played in a web browser without installing additional software.
+The project runs in MakeCode Arcade in a web browser. No additional software installation is required.
 
-- Open the game link in the Play the Game section.
-- Wait for the MakeCode Arcade simulator to load.
-- Select the on-screen A button to advance through the opening screens.
+- Click 'arcade-pawprint-home.uf2' in this repository.
+- Click 'View raw' to download the file.
+- Open Microsoft Makecode Arcade web
+- Click 'Import', then select 'Import File…'.
+- Select the downloaded 'arcade-pawprint-home.uf2' file, or drag it into the import area, and confirm the import.
+- Wait for the project to load, then use the simulator to run the game.
+- Press the on-screen A button to advance through the opening screens.
+  
+The project was developed using both Python and Blocks. To view Python, select it from the language dropdown beside the JavaScript/Python button. Code comments and source acknowledgments are available in the Blocks view.
 
 ## Usage
 Use the arrow keys to move around the maze and search for the lost cat.
@@ -57,12 +63,11 @@ Use the arrow keys to move around the maze and search for the lost cat.
 - Follow paw prints and look for the collar.
 - Explore alternative routes when clues lead to dead ends.
 - Move up to the neighbor to receive a hint.
-- Select the on-screen A button to advance through the dialogue.
-- Reach the goal near the cat to trigger the victory screen.
+- Press the on-screen A button to advance through the dialogue.
+- The neighbor’s dialogue appears only once, so read the hint carefully.
+- Step onto the ending tile in front of the cat to trigger the victory screen.
 
-The following Python code enables directional movement and makes the camera follow the player
-- controller.move_sprite(mySprite)
-- scene.camera_follow_sprite(mySprite)
+The paw prints and collar are visual clues and do not need to be collected. Speaking to the neighbor is optional and is not required to win.
 
 ## Project Status
 - The prototype is complete.
