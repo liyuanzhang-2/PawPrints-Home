@@ -1,4 +1,4 @@
-# PawPrints-Home
+# PawPrints Home
 A 2D maze exploration game where the player follows clues to find a lost cat.
 
 Link to PawPrints Home in MakeCode Arcade
@@ -12,7 +12,9 @@ https://arcade.makecode.com/S22505-80512-06885-08887
 - Screenshots
 - Setup
 - Usage
-- Project Status
+- Room for Improvement
+- Declaration of GenAI Use
+
 
 ## General Information
 - About the game: Pawprint Home was created with Microsoft MakeCode Arcade. The player explores a maze, follows paw prints, looks for a collar, and speaks to a neighbor to find a lost cat. Some paw prints lead to dead ends, encouraging the player to explore different routes.
@@ -26,7 +28,7 @@ https://arcade.makecode.com/S22505-80512-06885-08887
 
 ## Features
 - A maze map with different routes and dead ends.
-- Paw-print and collar clues.
+- Paw prints and collar clues.
 - A neighbor NPC who provides a directional hint.
 - A camera that follows the player.
 - A victory message, sound, and visual effect.
@@ -69,15 +71,13 @@ Use the arrow keys to move around the maze and search for the lost cat.
 
 The paw prints and collar are visual clues and do not need to be collected. Speaking to the neighbor is optional and is not required to win.
 
-## Project Status
-- The prototype is complete.
-
 ## Room for Improvement
 Possible improvements for future versions:
 
 - Refine clue placement through further playtesting.
 - Add more NPC dialogue and additional maze levels.
 
-## Acknowledgements
+## Declaration of GenAI Use
+Grammarly was used to check grammar, spelling and punctuation, and Google Translate was used to translate independently written Chinese text into English. All corrections and translations were reviewed. The full declaration is included in the written reflection.
 
 
